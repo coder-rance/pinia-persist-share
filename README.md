@@ -3,7 +3,7 @@
 `npm install pinia-persist-share`
 
 ### Description
-Sync your Pinia state across browser tabs.Only Supports vue3, easy as shit.
+Sync your Pinia state across browser tabs.Only Supports vue3, easy as shit!
 
 ### Usage
 

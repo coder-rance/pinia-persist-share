@@ -1,6 +1,6 @@
 {
   "name": "pinia-persist-share",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Sync your Pinia state across browser tabs.Only Supports vue3, easy as shit.",
   "author": "coder_rance@163.com",
   "main": "index.js",
@@ -12,6 +12,10 @@
     "localStorage",
     "across browser tabs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coder-rance/pinia-persist-share.git"
+  },
   "license": "MIT",
   "dependencies": {
     "pinia": "^2.1.7"
