@@ -1,0 +1,19 @@
+{
+  "name": "pinia-persist-share",
+  "version": "0.0.4",
+  "description": "Sync your Pinia state across browser tabs.Only Supports vue3, easy as shit.",
+  "author": "coder_rance@163.com",
+  "main": "index.js",
+  "keywords": [
+    "pinia",
+    "persist",
+    "BroadcastChannel",
+    "share",
+    "localStorage",
+    "across browser tabs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "pinia": "^2.1.7"
+  }
+}
